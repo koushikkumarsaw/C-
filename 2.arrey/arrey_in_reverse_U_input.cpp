@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int i,arr[5];
+    int i,arr   [5];
     cout<<"Enter the 5 number: "<<endl;
 
     for(i=0;i<5;i++)

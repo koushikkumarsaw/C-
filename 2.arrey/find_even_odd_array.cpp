@@ -24,6 +24,6 @@ int main()
         cin>>arr[i];
     }
     countEvenOdd(arr,size,even,odd);
-    cout<<"\neven number: "<<even;
-    cout<<"\nodd number: "<<odd;
+    cout<<"\nnumber of even number: "<<even;
+    cout<<"\nnumber of zodd number: "<<odd;
 }
